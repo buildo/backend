@@ -10,7 +10,6 @@ import io.buildo.toctoc.slick.authentication.login.MySqlSlickLoginAuthentication
 import io.buildo.toctoc.slick.authentication.token.MySqlSlickAccessTokenAuthenticationDomain
 import cats.effect.IO
 import java.time.Duration
-import cats.effect.ContextShift
 
 class MySqlSlickLoginAuthenticationDomainFlowSpec extends munit.FunSuite {
 
