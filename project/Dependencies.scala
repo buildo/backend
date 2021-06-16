@@ -83,7 +83,7 @@ object Dependencies {
   val munitScalaCheck = "org.scalameta" %% "munit-scalacheck" % V.munit
   val log4j = "org.apache.logging.log4j" % "log4j-api" % "2.14.1"
   val autowire = "com.lihaoyi" %% "autowire" % "0.3.3"
-  val pureConfig = "com.github.pureconfig" %% "pureconfig" % "0.11.1"
+  val pureConfig = "com.github.pureconfig" %% "pureconfig" % "0.16.0"
   val metarpheusCore = "io.buildo" %% "metarpheus-core" % "1.0.0"
 
   val enumeroDependencies = List(
