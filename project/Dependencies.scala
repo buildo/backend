@@ -10,7 +10,7 @@ object Dependencies {
     val mockito = "1.9.5"
     val akka = "2.6.15"
     val akkaHttp = "10.2.4"
-    val akkaHttpCirce = "1.36.0"
+    val akkaHttpCirce = "1.37.0"
     val awscala = "0.8.5"
     val cats = "2.6.1"
     val catsEffect = "2.5.1"
